@@ -1,4 +1,4 @@
-STILL UNDER CONSTRUCTION
+JUST STARTED NOT EVEN CLOSLEY FINISHED
 
 -Server is made for a NodeMCU1.0 or Arduino w/ ESP8266 board.
 -PWM control for the electronic valve -> tbd
